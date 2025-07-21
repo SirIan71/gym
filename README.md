@@ -1,4 +1,4 @@
-# BodyFit Gym
+# BdyFit Gym
 
 Welcome to the BodyFit Gym project! This is a Next.js application designed to showcase the services and offerings of BodyFit Gym. Below are the details for setting up and running the project.
 
